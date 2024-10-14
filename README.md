@@ -4,6 +4,7 @@ Prepare a JSON from the client data by doing a select from the
 table and then for that JSON prepare a UI - Grid or a form
 If a column is deleted in JSON it should be deleted in UI
 
+![Results](Results.png)
 # Client Application
 A React and Nodejs-based web application to dynamically fetch and display clients details. The frontend is built using React and styled with custom CSS, while the backend API is served by Nodejs. This project enables users to get the details of the clients at dynamicity. 
  
