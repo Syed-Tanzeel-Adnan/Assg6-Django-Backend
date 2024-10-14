@@ -29,7 +29,7 @@ A React and Nodejs-based web application to dynamically fetch and display client
 
 ### Prerequisites
 - React (for the frontend)
-- Nodejs (for the backend)
+- Django (for the backend)
 - PostgreSQL/MySql (for the database)
 
 ### Backend Setup (React)
